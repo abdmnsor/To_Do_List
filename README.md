@@ -26,7 +26,7 @@ No installation or build steps required! You can run this project directly from 
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/taskly.git
+    git clone https://github.com/abdmnsor/To_Do_List.git
     ```
 
 2.  **Open the application**:
